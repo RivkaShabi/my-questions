@@ -1,0 +1,18 @@
+[
+    {
+      "question": "How much is 1+1?",
+      "answers": [1, 2, 3, 100],
+      "correct": 1
+    },
+    {
+      "question": "What is the capital of France?",
+      "answers": ["London", "Berlin", "Paris", "Rome"],
+      "correct": 2
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answers": ["Red", "Blue", "Green", "Yellow"],
+      "correct": 1
+    }
+  ]
+  
